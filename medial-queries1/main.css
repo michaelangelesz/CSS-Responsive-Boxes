@@ -12,14 +12,17 @@ body {
   min-height: 100vh;
   flex-direction: column;
   justify-content: space-between;
+  margin: .5em;
 }
 
 header, footer  {
   flex-grow: 1;
+  margin: .5em;
 }
 
 main {
   flex-grow:10;
+  margin: .5em;
 }
 
 
